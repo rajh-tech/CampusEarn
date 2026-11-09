@@ -1,0 +1,6 @@
+{
+  "name": "CampusEarn",
+  "description": "India-wide student earning marketplace connecting college students with online and offline gigs to learn, work, and earn in INR (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
